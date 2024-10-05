@@ -1,0 +1,92 @@
+[
+  {
+    "id":1,
+    "name":"StoryBook",
+    "title":"Panchatantram",
+    "price":0,
+    "category":"Free",
+    "image":"https://www.maplepress.co.in/cdn/shop/products/9789390292929_700x700.jpg?v=1624792934"
+  },
+  {
+    "id":2,
+    "name":"Sports Book",
+    "title":"The SPORTS Stories",
+    "price":100,
+    "category":"Free",
+    "image":"https://m.media-amazon.com/images/I/61sz1qHNJbL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id":3,
+    "name":"Music Book",
+    "title":"MUSIC Is....",
+    "price":100,
+    "category":"Free",
+    "image":"https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781481477024/music-is-9781481477024_hr.jpg"
+  },
+
+  {
+    "id":4,
+    "name":"StoryBook",
+    "title":"Golden Fairy Tales",
+    "price":200,
+    "category":"Free",
+    "image":"https://m.media-amazon.com/images/I/815OFDjKnnL._AC_UF1000,1000_QL80_.jpg"
+  },
+
+  {
+    "id":5,
+    "name":"Music Book",
+    "title":"THE POWER OF MUSIC",
+    "price":100,
+    "category":"Free",
+    "image":"https://cdn.openbookpublishers.com/covers/10.11647/obp.0292.jpg"
+  },
+  {
+    "id":6,
+    "name":"Food Book",
+    "title":"Indian Cooking",
+    "price":100,
+    "category":"Free",
+    "image":"https://m.media-amazon.com/images/I/61tW0aRljWL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id":7,
+    "name":"Biography Book",
+    "title":"Wings of Fire",
+    "price":300,
+    "category":"Free",
+    "image":"https://img.etimg.com/photo/msid-99141634,imgsize-63020/WINGSOFFIRE-AUTOBIOGRAPHYOFABDULKALAM.jpg"
+  },
+  {
+    "id":8,
+    "name":"Biography Book",
+    "title":"Nelson Mandela",
+    "price":300,
+    "category":"Paid",
+    "image":"https://m.media-amazon.com/images/I/81gbuOwts0L._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id":9,
+    "name":"StoryBook",
+    "title":"Moral Stories",
+    "price":0,
+    "category":"Paid",
+    "image":"https://bookstation.in/cdn/shop/products/3082_front.jpg?v=1679345496&width=320"
+  },
+  {
+    "id":10,
+    "name":"Food Book",
+    "title":"Feel Good FOOD",
+    "price":100,
+    "category":"Paid",
+    "image":"https://cdn.loveandlemons.com/wp-content/uploads/2023/01/cookbook3.jpg"
+  },
+  {
+    "id":11,
+    "name":"Sports Book",
+    "title":"The BIG GAME",
+    "price":100,
+    "category":"Paid",
+    "image":"https://cdn.shopify.com/s/files/1/0285/2821/4050/files/the-big-game.jpg"
+  }
+]
